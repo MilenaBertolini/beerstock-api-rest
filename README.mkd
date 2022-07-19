@@ -1,0 +1,5 @@
+Desafio DIO TQI Fullstack developer Gerenciamento de estoque de cervejas.
+
+Desenvolvimento de testes unitários para validar uma API REST de gerenciamento.
+
+Projeto realizado utilizando Java e Spring Boot, e para os testes unitários JUnit e Mockito.
